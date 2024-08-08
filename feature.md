@@ -34,3 +34,17 @@ Importance: Climate change affects precipitation patterns and sea levels, influe
 AgriculturalPractices
 
 Importance: Certain farming practices can affect soil absorption and runoff, impacting flood risk
+
+
+
+
+MonsoonIntensity
+TopographyDrainage
+RiverManagement
+InadequatePlanning
+Siltation
+IneffectiveDisasterPreparedness
+Deforestation
+PoliticalFactors
+Urbanization
+ClimateChange
